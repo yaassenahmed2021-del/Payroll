@@ -4,7 +4,7 @@ import { kv } from '@vercel/kv';
 const APP_NAME = 'payroll_v25_r2';
 
 // قائمة المفاتيح المسموح بها فقط
-const VALID_KEYS = ["SRH-0986-PLOLJ-8"];
+const VALID_KEYS = ["GM-NH9-JKI-0980-ILILI"];
 
 export default async function handler(req, res) {
     // إعدادات الـ CORS
